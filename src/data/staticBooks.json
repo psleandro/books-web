@@ -1,0 +1,92 @@
+[
+  {
+    "name": "A culpa é das estrelas",
+    "description": "Hazel é uma paciente terminal. Ainda que, por um milagre da medicina, seu tumor tenha encolhido bastante ― o que lhe dá a promessa de viver mais alguns anos ―, o último capítulo de sua história foi escrito no momento do diagnóstico.",
+    "gender": "Genero do livro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61oIS8ewc9L.jpg",
+    "author": "John Green",
+    "publicationDate": "27/10/2014",
+    "classification": 1
+  },
+  {
+    "name": "Nome do livro2",
+    "description": "This book is the best book",
+    "gender": "Genero do livro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71YHOotzAuL.jpg",
+    "author": "Nome do autor",
+    "publicationDate": "23/04/2019",
+    "classification": 2
+  },
+  {
+    "name": "A culpa é das estrelas",
+    "description": "Hazel é uma paciente terminal. Ainda que, por um milagre da medicina, seu tumor tenha encolhido bastante ― o que lhe dá a promessa de viver mais alguns anos ―, o último capítulo de sua história foi escrito no momento do diagnóstico.",
+    "gender": "Genero do livro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61oIS8ewc9L.jpg",
+    "author": "John Green",
+    "publicationDate": "27/10/2014",
+    "classification": 1.5
+  },
+  {
+    "name": "Nome do livro2",
+    "description": "This book is the best book",
+    "gender": "Genero do livro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71YHOotzAuL.jpg",
+    "author": "Nome do autor",
+    "publicationDate": "23/04/2019",
+    "classification": 3.5
+  },
+  {
+    "name": "A culpa é das estrelas",
+    "description": "Hazel é uma paciente terminal. Ainda que, por um milagre da medicina, seu tumor tenha encolhido bastante ― o que lhe dá a promessa de viver mais alguns anos ―, o último capítulo de sua história foi escrito no momento do diagnóstico.",
+    "gender": "Genero do livro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61oIS8ewc9L.jpg",
+    "author": "John Green",
+    "publicationDate": "27/10/2014",
+    "classification": 3
+  },
+  {
+    "name": "Nome do livro2",
+    "description": "This book is the best book",
+    "gender": "Genero do livro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71YHOotzAuL.jpg",
+    "author": "Nome do autor",
+    "publicationDate": "23/04/2019",
+    "classification": 1.8
+  },
+  {
+    "name": "A culpa é das estrelas",
+    "description": "Hazel é uma paciente terminal. Ainda que, por um milagre da medicina, seu tumor tenha encolhido bastante ― o que lhe dá a promessa de viver mais alguns anos ―, o último capítulo de sua história foi escrito no momento do diagnóstico.",
+    "gender": "Genero do livro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61oIS8ewc9L.jpg",
+    "author": "John Green",
+    "publicationDate": "27/10/2014",
+    "classification": 1.7
+  },
+  {
+    "name": "Nome do livro2",
+    "description": "This book is the best book",
+    "gender": "Genero do livro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71YHOotzAuL.jpg",
+    "author": "Nome do autor",
+    "publicationDate": "23/04/2019",
+    "classification": 4.8
+  },
+  {
+    "name": "A culpa é das estrelas",
+    "description": "Hazel é uma paciente terminal. Ainda que, por um milagre da medicina, seu tumor tenha encolhido bastante ― o que lhe dá a promessa de viver mais alguns anos ―, o último capítulo de sua história foi escrito no momento do diagnóstico.",
+    "gender": "Genero do livro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61oIS8ewc9L.jpg",
+    "author": "John Green",
+    "publicationDate": "27/10/2014",
+    "classification": 3.6
+  },
+  {
+    "name": "Nome do livro2",
+    "description": "This book is the best book",
+    "gender": "Genero do livro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71YHOotzAuL.jpg",
+    "author": "Nome do autor",
+    "publicationDate": "23/04/2019",
+    "classification": 2.9
+  }
+]

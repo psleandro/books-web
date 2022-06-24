@@ -1,6 +1,13 @@
 import { Header } from "../../Components";
 import bookIllustration from '../../assets/home/book_lover.svg';
 import { Box, Stack, Typography } from "@mui/material";
+import type { IBook } from "../../types";
+import { BookSection } from "./BooksSection";
+import staticBooks from '../../data/staticBooks.json';
+
+// const staticCards: IBook[] = [
+
+// ]
 
 export function Home() {
   return (
@@ -29,6 +36,12 @@ export function Home() {
           <img style={{ height: '240px' }} src={bookIllustration} />
         </Stack>
       </Box>
+
+      <BookSection title="Continuar lendo" bookList={staticBooks} />
+      <BookSection title="Livros lidos" bookList={staticBooks} />
+      <BookSection title="Minha Lista" bookList={staticBooks} />
+      <BookSection title="Para Ler" bookList={staticBooks} />
+      <BookSection title="Sugestões com base no histórico" bookList={staticBooks} />
     </>
   )
 }
