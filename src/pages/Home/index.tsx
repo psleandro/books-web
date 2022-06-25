@@ -1,4 +1,4 @@
-import { Header } from "../../Components";
+import { Footer, Header } from "../../Components";
 import bookIllustration from '../../assets/home/book_lover.svg';
 import { Box, Stack, Typography } from "@mui/material";
 import type { IBook } from "../../types";
@@ -42,6 +42,8 @@ export function Home() {
       <BookSection title="Minha Lista" bookList={staticBooks} />
       <BookSection title="Para Ler" bookList={staticBooks} />
       <BookSection title="Sugestões com base no histórico" bookList={staticBooks} />
+
+      <Footer />
     </>
   )
 }
